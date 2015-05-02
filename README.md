@@ -1,4 +1,6 @@
 # pdf4ps
+(command line tool)
+
 Convert .pdf slides file into .ps file with 4 slides per page (in command line)
 
 takes   : PDF documents in landscape (-l) or portrait (-p) orientation
